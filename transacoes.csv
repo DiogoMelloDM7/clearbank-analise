@@ -1,0 +1,22 @@
+id,data,cliente_id,tipo,valor,descricao,categoria
+1,2026-01-05,CLI001,credito,3500.00,Salario Janeiro,salario
+2,2026-01-12,CLI002,debito,180.50,Supermercado,compra
+3,2026-01-20,CLI001,debito,250.00,Farmacia,compra
+4,2026-01-25,CLI003,credito,1200.00,Freelance,servico
+5,2026-02-03,CLI002,debito,320.00,Conta Luz,conta
+6,2026-02-14,CLI003,credito,15000.00,Transferencia Alta,transferencia
+7,2026-02-18,CLI001,debito,450.00,Internet,conta
+8,2026-02-22,CLI004,credito,2000.00,Bonus,bonus
+9,2026-03-01,CLI001,credito,3500.00,Salario Marco,salario
+10,2026-03-10,CLI003,debito,99.90,Streaming,assinatura
+11,2026-03-15,CLI002,credito,1800.00,Comissao,bonus
+12,2026-03-18,CLI004,debito,650.00,Compras,compra
+13,2026-04-02,CLI005,credito,25000.00,Investimento,transferencia
+14,2026-04-08,CLI002,debito,420.00,Combustivel,transporte
+15,2026-04-20,CLI003,credito,1000.00,Reembolso,servico
+16,2026-04-25,CLI001,debito,310.00,Academia,saude
+17,2026-01-20,CLI001,debito,abc,Valor Invalido,compra
+18,2026-02-10,,debito,150.00,Sem Cliente,compra
+19,10/03/2026,CLI002,credito,500.00,Data Invalida,bonus
+20,2026-03-22,CLI004,pagamento,200.00,Tipo Invalido,compra
+,2026-04-30,CLI005,credito,1000.00,ID Invalido,servico

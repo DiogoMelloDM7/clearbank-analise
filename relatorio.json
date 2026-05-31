@@ -1,0 +1,43 @@
+{
+  "gerado_em": "2026-05-31",
+  "total_transacoes_validas": 16,
+  "total_transacoes_invalidas": 5,
+  "resumo_mensal": {
+    "2026-01": {
+      "quantidade": 4,
+      "total_credito": 4700.0,
+      "total_debito": 430.5,
+      "maior": 3500.0,
+      "menor": 180.5,
+      "saldo": 4269.5,
+      "media": 1282.625
+    },
+    "2026-02": {
+      "quantidade": 4,
+      "total_credito": 17000.0,
+      "total_debito": 770.0,
+      "maior": 15000.0,
+      "menor": 320.0,
+      "saldo": 16230.0,
+      "media": 4442.5
+    },
+    "2026-03": {
+      "quantidade": 4,
+      "total_credito": 5300.0,
+      "total_debito": 749.9,
+      "maior": 3500.0,
+      "menor": 99.9,
+      "saldo": 4550.1,
+      "media": 1512.475
+    },
+    "2026-04": {
+      "quantidade": 4,
+      "total_credito": 26000.0,
+      "total_debito": 730.0,
+      "maior": 25000.0,
+      "menor": 310.0,
+      "saldo": 25270.0,
+      "media": 6682.5
+    }
+  }
+}
